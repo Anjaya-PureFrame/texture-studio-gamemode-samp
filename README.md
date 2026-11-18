@@ -1,4 +1,3 @@
-# ALL-MAPPINGS-OBJECT-PROJECT-NEGERIKU
+# `Texture-Studio`
 
-
-All assets within the file, including mapping scripts, were created by and are owned by Negeriku.
+[New thread](https://www.burgershot.gg/showthread.php?tid=174), since the previous thread was deleted by your king. 
