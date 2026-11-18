@@ -36,10 +36,6 @@ This repository contains gamemode files, filterscripts, includes, models, and ad
 
 > **Note:** Review the project files and additional archives for specific dependencies and configuration requirements before running the server.
 
-## 📚 References
-
-- [Texture Studio Discussion](https://www.burgershot.gg/)
-
 ## ⚠️ Disclaimer
 
 This repository is provided for development, learning, and mapping-related purposes. Make sure you respect the original authors' licenses and distribution permissions for third-party resources.
